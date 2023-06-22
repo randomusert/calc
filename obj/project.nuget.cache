@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4yC0ZJwhQlMRiC2FpeSqUVnWWFspvQLZx8ccTSQ3MLxJ0VtJOzq9oK+v748dw1qtBqC7NjsiDqbNWtnd/swNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eetu\\Desktop\\calc\\calc\\calc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eetu\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\6.0.18\\microsoft.aspnetcore.authentication.negotiate.6.0.18.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.18\\microsoft.aspnetcore.connections.abstractions.6.0.18.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\microsoft.extensions.features\\6.0.18\\microsoft.extensions.features.6.0.18.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\system.directoryservices.protocols.6.0.2.nupkg.sha512",
+    "C:\\Users\\Eetu\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
